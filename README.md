@@ -12,10 +12,7 @@ ShopSmart позволяет:
 - Скрывать навигацию на `/login` и `/register` для чистого интерфейса.
 
 Проект развёрнут на Vercel (frontend), Render (backend) и MongoDB Atlas (база данных).
-
-Проект разделен на сервер и клиент, GitHub репозитории:
-клиент - https://github.com/your-username/shopsmart-client.git
-сервер - https://github.com/your-username/shopsmart-server.git
+(https://shopsmart-client.vercel.app/)
 
 
 ## Технический стек и его выбор
