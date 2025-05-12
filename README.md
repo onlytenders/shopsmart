@@ -41,7 +41,7 @@ ShopSmart позволяет:
 ### Локальный запуск
 
 1.  Клонировать репозиторий:
-    git clone https://github.com/your-username/shopsmart.git
+    git clone https://github.com/onlytenders/shopsmart.git
 
 2.  Установить зависимости:
     cd client
